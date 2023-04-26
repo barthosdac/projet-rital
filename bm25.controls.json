@@ -1,0 +1,13 @@
+{
+     "terrierql": "on",
+     "parsecontrols": "on",
+     "parseql": "on",
+     "applypipeline": "on",
+     "localmatching": "on",
+     "filters": "on",
+     "decorate": "on",
+     "wmodel": "BM25",
+     "bm25.b": 0.4,
+     "bm25.k_1": 1.2,
+     "bm25.k_3": 4
+}
